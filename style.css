@@ -33,6 +33,7 @@ h2{
 .left-column{
 flex-direction: column;
 width: 65vw;
+padding-top: 33px;
 }
 
 .right-column{
@@ -46,9 +47,7 @@ width: 65vw;
 }
 
 
-.other-article{
-  font-size: 0ch;
-}
+
 
 .text-center{
   text-align: center;
